@@ -6,7 +6,7 @@
 }
 .hero{
     height: 100vh;
-    width: 100%;
+    width: 1500px;
     background-image: url(../pf5.jpg);
     background-size: cover;
     background-position: center;
@@ -101,7 +101,7 @@ background-color:  #f9004d;
 color: white;
 }
 .about{
-    width:100%;
+    width: 1500px;px;
     padding: 100px 0px;
     background-color: #191919;
 }
@@ -157,7 +157,7 @@ button:hover{
 }
 .service{
     background: #101010;
-    width:100%;
+    width:1500px;
     padding: 100px 0px;
 }
 .title h2{
